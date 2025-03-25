@@ -18,18 +18,11 @@ Interactive slicers allow users to filter by product category, region, quarter, 
 
 ---
 
-## 📦 Dataset Snapshot
-
-A visual reference of the raw dataset used in building the dashboard.
-
-![Retailer Dataset](Retailer-Dataset.png)
-
----
-
 ## 🚀 Features
 
 - **Sales by Beverage Brand**  
   Table showing performance for Coca-Cola product lines with year-over-year variance.
+![Retailer Dataset](Retailer-Dataset.png)
 
 - **Sales by Retailer**  
   Highlights total sales and growth across major retailers such as Amazon, Walmart, and Target.
@@ -56,8 +49,3 @@ A visual reference of the raw dataset used in building the dashboard.
 - Q3 consistently delivers strong sales and profit margins — an opportunity for focused seasonal marketing.
 
 ---
-
-## 📁 Files Included
-
-- `Retailer Dashboard - Excel.xlsx`: The main Excel dashboard
-- Supporting visuals (`.png`) for quick GitHub preview
